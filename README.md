@@ -14,10 +14,6 @@
 
 * Breadboard (optional)
 
-### ⚙️ Wiring Diagram
-
-![m5ir](https://github.com/user-attachments/assets/978385f1-f045-42e0-9e59-116d62d6b29b)
-
 ### 🔓 Wiring Table
 
 ## IR Receiver
